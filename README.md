@@ -66,7 +66,8 @@ Jupyter Notebook → Interactive analysis
 
 # 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/jyoti-5906/climate-change-analysis.git
+git clone 📁 [Deep_DataHack](https://github.com/jyoti-5906/Deep_DataHack)
+
 cd climate-change-analysis
 
 2. Install Dependencies
